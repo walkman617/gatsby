@@ -135,7 +135,7 @@ const IndexPage = () => {
         <br />
         <span style={headingAccentStyles}>南开大学 软件学院 </span>
         <span role="img" aria-label="Party popper emojis">
-          🎉🎉🎉
+        🚀 
         </span>
       </h1>
       <p style={paragraphStyles}>
