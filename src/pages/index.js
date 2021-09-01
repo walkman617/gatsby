@@ -139,8 +139,15 @@ const IndexPage = () => {
         </span>
       </h1>
       <p style={paragraphStyles}>
-        Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time.{" "}
+      教材：<code style={codeStyles}>
+        《Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support, 11th Edition》
+         </code> 
+         <a
+            style={linkStyle}
+            href={"https://www.pearson.com/us/higher-education/program/Sharda-Analytics-Data-Science-Artificial-Intelligence-Systems-for-Decision-Support-11th-Edition/PGM2067063.html"}
+          >
+            教材介绍
+          </a>.{" "}
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
         </span>
