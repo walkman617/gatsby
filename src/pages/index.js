@@ -57,8 +57,8 @@ const descriptionStyle = {
 }
 
 const docLink = {
-  text: "Documentation",
-  url: "https://www.gatsbyjs.com/docs/",
+  text: "课件",
+  url: "https://github.com/walkman617/DS2021",
   color: "#8954A8",
 }
 
@@ -129,11 +129,11 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Home Page</title>
+      <title>南开大学软件学院《数据科学》课程平台</title>
       <h1 style={headingStyles}>
-        Congratulations
+        《数据科学》课程资源
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
+        <span style={headingAccentStyles}>南开大学 软件学院 </span>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
