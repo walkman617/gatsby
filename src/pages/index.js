@@ -143,16 +143,17 @@ const IndexPage = () => {
       教材：<code style={codeStyles}>
         《Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support, 11th Edition》
          </code> 
+         <span role="img" aria-label="Sunglasses smiley emoji">
+          😎
+        </span>.{" "}
          <a
             style={linkStyle}
             target="_blank"
             href={"https://www.pearson.com/us/higher-education/program/Sharda-Analytics-Data-Science-Artificial-Intelligence-Systems-for-Decision-Support-11th-Edition/PGM2067063.html"}
           >
             教材介绍
-          </a>.{" "}
-        <span role="img" aria-label="Sunglasses smiley emoji">
-          😎
-        </span>
+          </a>
+       
       </p>
       <ul style={listStyles}>
         <li style={docLinkStyle}>
