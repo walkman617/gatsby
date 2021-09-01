@@ -58,6 +58,7 @@ const descriptionStyle = {
 
 const docLink = {
   text: "课件",
+  target: "_blank",
   url: "https://github.com/walkman617/DS2021",
   color: "#8954A8",
 }
