@@ -145,6 +145,7 @@ const IndexPage = () => {
          </code> 
          <a
             style={linkStyle}
+            target="_blank"
             href={"https://www.pearson.com/us/higher-education/program/Sharda-Analytics-Data-Science-Artificial-Intelligence-Systems-for-Decision-Support-11th-Edition/PGM2067063.html"}
           >
             教材介绍
