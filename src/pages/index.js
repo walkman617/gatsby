@@ -57,7 +57,7 @@ const descriptionStyle = {
 }
 
 const docLink = {
-  text: "课件",
+  text: "课件下载",
   target: "_blank",
   url: "https://github.com/walkman617/DS2021",
   color: "#8954A8",
@@ -83,6 +83,7 @@ const badgeStyle = {
 const links = [
   {
     text: "Tutorial",
+    target: "_blank",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
@@ -90,6 +91,7 @@ const links = [
   },
   {
     text: "How to Guides",
+    target: "_blank",
     url: "https://www.gatsbyjs.com/docs/how-to/",
     description:
       "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
@@ -97,6 +99,7 @@ const links = [
   },
   {
     text: "Reference Guides",
+    target: "_blank",
     url: "https://www.gatsbyjs.com/docs/reference/",
     description:
       "Nitty-gritty technical descriptions of how Gatsby works. Most useful when you need detailed information about Gatsby's APIs.",
@@ -104,6 +107,7 @@ const links = [
   },
   {
     text: "Conceptual Guides",
+    target: "_blank",
     url: "https://www.gatsbyjs.com/docs/conceptual/",
     description:
       "Big-picture explanations of higher-level Gatsby concepts. Most useful for building understanding of a particular topic.",
@@ -111,6 +115,7 @@ const links = [
   },
   {
     text: "Plugin Library",
+    target: "_blank",
     url: "https://www.gatsbyjs.com/plugins",
     description:
       "Add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
@@ -118,6 +123,7 @@ const links = [
   },
   {
     text: "Build and Host",
+    target: "_blank",
     url: "https://www.gatsbyjs.com/cloud",
     badge: true,
     description:
@@ -142,7 +148,7 @@ const IndexPage = () => {
       <p style={paragraphStyles}>
       教材：<code style={codeStyles}>
         《Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support, 11th Edition》
-         </code> 
+         </code> <br></br>
          <span role="img" aria-label="Sunglasses smiley emoji">
           😎
         </span>.{" "}
@@ -158,8 +164,9 @@ const IndexPage = () => {
       <ul style={listStyles}>
         <li style={docLinkStyle}>
           <a
+            target={docLink.target}
             style={linkStyle}
-            href={`${docLink.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+            href={docLink.url}
           >
             {docLink.text}
           </a>
@@ -168,8 +175,9 @@ const IndexPage = () => {
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
               <a
+                target={link.target}
                 style={linkStyle}
-                href={`${link.url}?utm_source=starter&utm_medium=start-page&utm_campaign=minimal-starter`}
+                href={link.url}
               >
                 {link.text}
               </a>
@@ -183,7 +191,7 @@ const IndexPage = () => {
           </li>
         ))}
       </ul>
-      <span>Copyright © 2021 南开大学, 软件学院. Built with Gatsby. </span>
+      <span>Copyright © 2021 南开大学, 软件学院. Built with <a target="_blank" href="https://www.gatsbyjs.com/">Gatsby</a>. </span>
       
     </main>
   )
