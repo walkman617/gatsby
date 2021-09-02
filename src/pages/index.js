@@ -87,6 +87,7 @@ const links = [
     url: "https://github.com/walkman617/DS2021/blob/main/Vignette/ov1.1.md",
     description:
       "How Intelligent Systems Work for KONE Elevators and Escalators Company.",
+    QA:"<a href=\"http://nankai-cs.mikecrm.com/qi6ABxT\" target=_blank><img src=/images/ov1.1.png></a>",
     color: "#E95800",
   },
   {
@@ -95,7 +96,8 @@ const links = [
     url: "https://www.gatsbyjs.com/docs/how-to/",
     description:
       "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
-    color: "#1099A8",
+      QA:"",
+      color: "#1099A8",
   },
   {
     text: "Reference Guides",
@@ -103,7 +105,8 @@ const links = [
     url: "https://www.gatsbyjs.com/docs/reference/",
     description:
       "Nitty-gritty technical descriptions of how Gatsby works. Most useful when you need detailed information about Gatsby's APIs.",
-    color: "#BC027F",
+      QA:"",
+      color: "#BC027F",
   },
   {
     text: "Conceptual Guides",
@@ -111,7 +114,8 @@ const links = [
     url: "https://www.gatsbyjs.com/docs/conceptual/",
     description:
       "Big-picture explanations of higher-level Gatsby concepts. Most useful for building understanding of a particular topic.",
-    color: "#0D96F2",
+      QA:"",
+      color: "#0D96F2",
   },
   {
     text: "Plugin Library",
@@ -119,7 +123,8 @@ const links = [
     url: "https://www.gatsbyjs.com/plugins",
     description:
       "Add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
-    color: "#8EB814",
+      QA:"",
+      color: "#8EB814",
   },
   {
     text: "Build and Host",
@@ -128,6 +133,7 @@ const links = [
     badge: true,
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+    QA:"",
     color: "#663399",
   },
 ]
@@ -187,6 +193,7 @@ const IndexPage = () => {
                 </span>
               )}
               <p style={descriptionStyle}>{link.description}</p>
+              <p style={descriptionStyle}>{link.QA}</p>
             </span>
           </li>
         ))}
