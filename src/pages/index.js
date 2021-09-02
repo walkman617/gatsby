@@ -84,7 +84,7 @@ const links = [
   {
     text: "1.1 Opening Vignette",
     target: "_blank",
-    url: "https://www.gatsbyjs.com/docs/tutorial/",
+    url: "https://github.com/walkman617/DS2021/blob/main/Vignette/ov1.1.md",
     description:
       "How Intelligent Systems Work for KONE Elevators and Escalators Company.",
     color: "#E95800",
