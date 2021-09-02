@@ -82,11 +82,11 @@ const badgeStyle = {
 // data
 const links = [
   {
-    text: "Tutorial",
+    text: "1.1 Opening Vignette",
     target: "_blank",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "How Intelligent Systems Work for KONE Elevators and Escalators Company.",
     color: "#E95800",
   },
   {
