@@ -57,9 +57,9 @@ const descriptionStyle = {
 }
 
 const docLink = {
-  text: "课程资源下载",
+  text: "使用 Kotlin 进行 Android 开发",
   target: "_blank",
-  url: "https://github.com/walkman617/wechat",
+  url: "https://k.nkugame.com/",
   color: "#8954A8",
 }
 
@@ -82,11 +82,11 @@ const badgeStyle = {
 // data
 const links = [
   {
-    text: "使用 Kotlin 进行 Android 开发",
+    text: "微信小程序与云开发(PPT)",
     target: "_blank",
-    url: "https://k.nkugame.com/",
+    url: "https://github.com/walkman617/wechat",
     description:
-      "使用 Kotlin 更快地编写更出色的 Android 应用。 Kotlin 是一种新型的静态类型编程语言，有超过 60% 的专业 Android 开发者在使用，它有助于提高工作效率、开发者满意度和代码安全性。",
+      "想要更具体了解关于框架、组件、API的详细内容，请参考对应的参考文档。",
     QA:"",
     color: "#E95800",
   },
@@ -153,8 +153,8 @@ const IndexPage = () => {
       </h1>
       <p style={paragraphStyles}>
       <code style={codeStyles}>平时成绩（60%）</code>
-      <br>1. 将每次上机的成果和徽章截图提交到个人的Git项目中；</br>
-      <br>2. 每次上机任务的提交截止时间在下次上机任务之前（<b>晚提交作业会有较重的扣分</b>）。</br>
+      <br>1. 将每次上机的成果和徽章截图提交到个人的Git项目中</br>
+      <br>2. 每次上机任务的提交截止时间在下次上机任务之前（<b>晚提交作业会有较重的扣分</b>）</br>
 <br></br>
       <code style={codeStyles}>学期项目报告（40%）</code>
       <br>1. 参加<a
@@ -165,7 +165,7 @@ const IndexPage = () => {
             2022中国高校计算机大赛：微信小程序应用开发赛
           </a>（<b>2022年6月9日前报名</b>）</br>
       <br>2. 将开发赛要求的文档等内容同时提交到个人Git项目中（<b>2022年6月16日前提交</b>）</br>
-      <br>3. 组队要求（<b>2课程要求只能选择1人或2人组队</b>）</br>
+      <br>3. 组队要求（<b>本课程要求只能选择1人或2人组队</b>）</br>
       <br>- 1人独立组队：完成前端 <a
             style={linkStyle}
             target="_blank"
