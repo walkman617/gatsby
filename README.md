@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  微信小程序开发 - 课程资源
+  Gatsby - Tutorial
 </h1>
 
 ## 🚀 Quick start

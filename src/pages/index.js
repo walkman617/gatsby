@@ -82,57 +82,57 @@ const badgeStyle = {
 // data
 const links = [
   {
-    text: "1.1 Opening Vignette",
+    text: "使用 Kotlin 进行 Android 开发",
     target: "_blank",
-    url: "https://github.com/walkman617/DS2021/blob/main/Vignette/ov1.1.md",
+    url: "https://k.nkugame.com/",
     description:
-      "How Intelligent Systems Work for KONE Elevators and Escalators Company.",
-    QA:"<a href=\"http://nankai-cs.mikecrm.com/qi6ABxT\" target=_blank><img src=/images/ov1.1.png></a>",
+      "使用 Kotlin 更快地编写更出色的 Android 应用。 Kotlin 是一种新型的静态类型编程语言，有超过 60% 的专业 Android 开发者在使用，它有助于提高工作效率、开发者满意度和代码安全性。",
+    QA:"",
     color: "#E95800",
   },
   {
-    text: "How to Guides",
+    text: "微信公众平台",
     target: "_blank",
-    url: "https://www.gatsbyjs.com/docs/how-to/",
+    url: "https://mp.weixin.qq.com/",
     description:
-      "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
+      "小程序提供了一个简单、高效的应用开发框架和丰富的组件及API，帮助开发者在微信中开发具有原生 APP 体验的服务。",
       QA:"",
       color: "#1099A8",
   },
   {
-    text: "Reference Guides",
+    text: "云开发CloudBase",
     target: "_blank",
-    url: "https://www.gatsbyjs.com/docs/reference/",
+    url: "https://cloudbase.net/",
     description:
-      "Nitty-gritty technical descriptions of how Gatsby works. Most useful when you need detailed information about Gatsby's APIs.",
+      "提供了云原生一体化应用开发平台，可以快速构建小程序、Web、移动应用的后端服务。",
       QA:"",
       color: "#BC027F",
   },
   {
-    text: "Conceptual Guides",
+    text: "微信云托管",
     target: "_blank",
-    url: "https://www.gatsbyjs.com/docs/conceptual/",
+    url: "https://cloud.weixin.qq.com/cloudrun",
     description:
-      "Big-picture explanations of higher-level Gatsby concepts. Most useful for building understanding of a particular topic.",
+      "以容器服务为核心，提供方便易用的存储体系、微信生态、安全鉴权等服务能力；搭配简单易懂的操作面板，集成资源监控，资源告警，流水线等自动化功能，是一站式的后端云服务。",
       QA:"",
       color: "#0D96F2",
   },
   {
-    text: "Plugin Library",
+    text: "选课名单与个人项目地址",
     target: "_blank",
-    url: "https://www.gatsbyjs.com/plugins",
+    url: "https://docs.qq.com/sheet/DYldualFLZXVKYWtZ",
     description:
-      "Add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
+      "1）填写个人邮箱：受邀加入tapd.cn上的项目“智能移动开发_2022春”，用于上机实践中的答疑；2）填写个人Git项目的访问地址：如GitHub、GitLab、码云，用于提交每次的上机实践的成果和学期项目报告。",
       QA:"",
       color: "#8EB814",
   },
   {
-    text: "Build and Host",
+    text: "微信小程序应用开发赛",
     target: "_blank",
-    url: "https://www.gatsbyjs.com/cloud",
+    url: "https://developers.weixin.qq.com/community/competition",
     badge: true,
     description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+      "微信小程序应用开发赛是基于腾讯微信小程序平台的创新应用开发设计竞赛，大赛面向全球高校在校生开放。",
     QA:"",
     color: "#663399",
   },
@@ -144,16 +144,15 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>《智能移动开发》课程资源平台</title>
       <h1 style={headingStyles}>
-        微信小程序开发
+      智能移动开发
         <br />
-        <span style={headingAccentStyles}> — 课件资源 </span>
+        <span style={headingAccentStyles}> — 课程平台 </span>
         <span role="img" aria-label="Party popper emojis">
         🚀 
         </span>
       </h1>
       <p style={paragraphStyles}>
-      2022中国高校计算机大赛：<code style={codeStyles}>微信小程序应用开发赛</code> <br></br>
-         
+      2022中国高校计算机大赛：
          <a
             style={linkStyle}
             target="_blank"
