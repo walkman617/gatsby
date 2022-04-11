@@ -153,19 +153,21 @@ const IndexPage = () => {
       </h1>
       <p style={paragraphStyles}>
       <code style={codeStyles}>平时成绩（60%）</code>
-      <br>1. 将每次上机的成果和徽章截图提交到个人的Git项目中</br>
-      <br>2. 每次上机任务的提交截止时间在下次上机任务之前（<b>晚提交作业会有较重的扣分</b>）</br>
-<br></br>
+      <br />1. 将每次上机的成果和徽章截图提交到个人的Git项目中<br />
+      <br />2. 每次上机任务的提交截止时间在下次上机任务之前（<b>晚提交作业会有较重的扣分</b>）<br />
+      <br /><br />
       <code style={codeStyles}>学期项目报告（40%）</code>
-      <br>1. 参加<a
+      <br />
+      1. 参加
+          <a
             style={linkStyle}
             target="_blank"
             href={"https://developers.weixin.qq.com/community/competition"}
           >
             2022中国高校计算机大赛：微信小程序应用开发赛
-          </a>（<b>2022年6月9日前报名</b>）</br>
-      <br>2. 将开发赛要求的文档等内容同时提交到个人Git项目中（<b>2022年6月16日前提交</b>）</br>
-      <br>3. 组队要求（<b>本课程要求只能选择1人或2人组队</b>）</br>
+          </a>（<b>2022年6月9日前报名</b>）<br />
+          <br />2. 将开发赛要求的文档等内容同时提交到个人Git项目中（<b>2022年6月16日前提交</b>）<br />
+      <br />3. 组队要求（<b>本课程要求只能选择1人或2人组队</b>）<br />
       
 
        
