@@ -199,8 +199,6 @@ const IndexPage = () => {
           微信云开发
           </a>;
           </li>
-
-      <br /> 
       
       <li>2人组队：完成前端 
       <a
@@ -218,7 +216,6 @@ const IndexPage = () => {
           微信云托管
           </a>。
           </li>
-
       </p>
       <ul style={listStyles}>
         
