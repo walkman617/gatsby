@@ -118,15 +118,6 @@ const links = [
       color: "#0D96F2",
   },
   {
-    text: "选课名单与个人项目地址",
-    target: "_blank",
-    url: "https://docs.qq.com/sheet/DYldualFLZXVKYWtZ",
-    description:
-      "1）填写个人邮箱：受邀加入tapd.cn上的项目“智能移动开发_2022春”，用于上机实践中的答疑；2）填写个人Git项目的访问地址：如GitHub、GitLab、码云，用于提交每次的上机实践的成果和学期项目报告。",
-      QA:"",
-      color: "#8EB814",
-  },
-  {
     text: "微信小程序应用开发赛",
     target: "_blank",
     url: "https://developers.weixin.qq.com/community/competition",
@@ -151,7 +142,20 @@ const IndexPage = () => {
         🚀 
         </span>
       </h1>
+      
+      <ul style={listStyles}>
+        <li style={docLinkStyle}>
+          <a
+            target={docLink.target}
+            style={linkStyle}
+            href={docLink.url}
+          >
+            {docLink.text}
+          </a>
+        </li></ul>
+
       <p style={paragraphStyles}>
+      
       <code style={codeStyles}>平时成绩（60%）</code><br />
       <br />1. 将每次上机的成果和徽章截图提交到个人的Git项目中
       <br />2. 每次上机任务的提交截止时间在下次上机任务之前（<b>晚提交作业会有较重的扣分</b>）
