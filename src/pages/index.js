@@ -57,9 +57,9 @@ const descriptionStyle = {
 }
 
 const docLink = {
-  text: "课件下载",
+  text: "课程资源下载",
   target: "_blank",
-  url: "https://github.com/walkman617/DS2021",
+  url: "https://github.com/walkman617/wechat",
   color: "#8954A8",
 }
 
@@ -142,28 +142,24 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>南开大学《数据科学》课程平台</title>
+      <title>《智能移动开发》课程资源平台</title>
       <h1 style={headingStyles}>
-        《数据科学》
+        微信小程序开发
         <br />
-        <span style={headingAccentStyles}>— 课程资源 </span>
+        <span style={headingAccentStyles}> — 课件资源 </span>
         <span role="img" aria-label="Party popper emojis">
         🚀 
         </span>
       </h1>
       <p style={paragraphStyles}>
-      教材：<code style={codeStyles}>
-        《Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support, 11th Edition》
-         </code> <br></br>
-         <span role="img" aria-label="Sunglasses smiley emoji">
-          😎
-        </span>.{" "}
+      2022中国高校计算机大赛：<code style={codeStyles}>微信小程序应用开发赛</code> <br></br>
+         
          <a
             style={linkStyle}
             target="_blank"
-            href={"https://www.pearson.com/us/higher-education/program/Sharda-Analytics-Data-Science-Artificial-Intelligence-Systems-for-Decision-Support-11th-Edition/PGM2067063.html"}
+            href={"https://developers.weixin.qq.com/community/competition"}
           >
-            教材介绍
+            微信小程序应用开发赛
           </a>
        
       </p>
@@ -198,7 +194,7 @@ const IndexPage = () => {
           </li>
         ))}
       </ul>
-      <span>Copyright © 2021 南开大学, 软件学院. Built with <a target="_blank" href="https://www.gatsbyjs.com/">Gatsby</a>. </span>
+      <span>Copyright © 2022 南开大学, 软件学院. Built with <a target="_blank" href="https://www.gatsbyjs.com/">Gatsby</a>. </span>
       
     </main>
   )

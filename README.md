@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  微信小程序开发 - 课程资源
 </h1>
 
 ## 🚀 Quick start
