@@ -166,24 +166,7 @@ const IndexPage = () => {
           </a>（<b>2022年6月9日前报名</b>）</br>
       <br>2. 将开发赛要求的文档等内容同时提交到个人Git项目中（<b>2022年6月16日前提交</b>）</br>
       <br>3. 组队要求（<b>本课程要求只能选择1人或2人组队</b>）</br>
-      <br>- 1人独立组队：完成前端 <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developers.weixin.qq.com/miniprogram/dev/framework/"}
-          >微信小程序</a> + 后端 <a
-          style={linkStyle}
-          target="_blank"
-          href={"https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html"}
-        >微信云开发</a>;</br>
-      <br>- 2人组队：完成前端 <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developers.weixin.qq.com/miniprogram/dev/framework/"}
-          >微信小程序</a> + 后端 <a
-          style={linkStyle}
-          target="_blank"
-          href={"https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html"}
-        >微信云托管</a>。</br>
+      
 
        
       </p>
