@@ -147,14 +147,14 @@ const IndexPage = () => {
 
       <p style={paragraphStyles}>
 
-      <code style={codeStyles}>选课名单</code>：
+      <code style={codeStyles}>选课名单（
       <a
             style={linkStyle}
             target="_blank"
             href={"https://docs.qq.com/sheet/DYldualFLZXVKYWtZ"}
           >
             腾讯文档
-          </a><br />
+          </a>）</code><br />
       <br />1. 填写个人邮箱：受邀加入tapd.cn上的项目“智能移动开发_2022春”，用于上机实践中的答疑；
       <br />2. 填写个人Git项目的访问地址：如github.com、gitLab.com、gitee.com等，用于提交每次的上机实践的成果和学期项目报告。
       <br /><br /><br />
@@ -211,7 +211,7 @@ const IndexPage = () => {
             <a
           style={linkStyle}
           target="_blank"
-          href={"https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html"}
+          href={"https://developers.weixin.qq.com/miniprogram/dev/wxcloudrun/src/basic/intro.html"}
         >
           微信云托管
           </a>。
