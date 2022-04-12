@@ -31,7 +31,7 @@ const listStyles = {
 const listItemStyles = {
   fontWeight: 300,
   fontSize: 24,
-  maxWidth: 560,
+  maxWidth: 760,
   marginBottom: 30,
 }
 
@@ -156,7 +156,7 @@ const IndexPage = () => {
             腾讯文档
           </a>）</code><br />
       <br />1. 填写个人邮箱：受邀加入tapd.cn上的项目“智能移动开发_2022春”，用于上机实践中的答疑；
-      <br />2. 填写个人Git项目的访问地址：如github.com、gitLab.com、gitee.com等，用于提交每次的上机实践的成果和学期项目报告。
+      <br />2. 填写个人Git项目的访问地址：如github.com、gitLab.com、gitee.com等，用于提交作业和报告。
       <br /><br /><br />
 
       <code style={codeStyles}>平时成绩（60%）</code><br />
