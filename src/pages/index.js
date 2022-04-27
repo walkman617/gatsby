@@ -159,7 +159,7 @@ const IndexPage = () => {
       <br />2. 填写个人Git项目的访问地址：如github.com、gitLab.com、gitee.com等，用于提交作业和报告。
       <br /><br /><br />
 
-      <code style={codeStyles}>平时成绩（60%）</code><br />
+      <code style={codeStyles}>课程学习与实践（60%）</code><br />
       <br />1. 课程内容：<a
             style={linkStyle}
             target="_blank"
