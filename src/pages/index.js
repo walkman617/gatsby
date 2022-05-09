@@ -179,9 +179,9 @@ const IndexPage = () => {
             href={"https://developers.weixin.qq.com/community/competition"}
           >
             2022中国高校计算机大赛：微信小程序应用开发赛
-          </a>（<b>2022年6月9日前报名</b>）
-          <br />2. 将开发赛要求的文档等内容同时提交到个人Git项目中（<b>2022年6月16日前提交</b>）
-      <br />3. 组队要求（<b>本课程要求只能选择1人或2人组队</b>）
+          </a>（<b>2022年6月9日21:00前报名，6月16日21:00前作品提交</b>）
+          
+      <br />2. 组队要求（<b>本课程要求只能选择1人或2人组队</b>）
       <br /> 
       <li>1人独立组队：完成前端 
       <a
@@ -216,6 +216,33 @@ const IndexPage = () => {
           微信云托管
           </a>。
           </li>
+
+          <br />3. 项目迭代（<b>晚提交会有较重的扣分</b>）
+      <br /> 
+      <li>按照“2022 中国高校计算机大赛——微信小程序应用开发赛” 
+          <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developers.weixin.qq.com/community/competition/intro"}
+          >
+            竞赛规程
+          </a> 的要求，完成4次项目迭代，每次迭代至少完成2个功能，功能的粒度请参考 “
+          <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developers.weixin.qq.com/community/develop/doc/000c44535581c853f6addb4c951809"}
+          >
+            作品主题
+          </a>” 中列举的功能粒度。
+          
+          </li>
+          <li>每次迭代需提交如下内容到个人的Git项目中：（1）介绍文档、（2）演示视频、（3）小程序appid（允许上线版本和体验版）。 </li>
+
+          <li>迭代1: 2022年5月17日 至 2022年5月24日 </li>
+          <li>迭代2: 2022年5月24日 至 2022年5月31日 </li>
+          <li>迭代3: 2022年5月31日 至 2022年6月7日 </li>
+          <li>迭代4: 2022年6月7日 至 2022年6月16日 </li>
+      
       </p>
       <ul style={listStyles}>
         
