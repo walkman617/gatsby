@@ -19,6 +19,7 @@ const paragraphStyles = {
 }
 const codeStyles = {
   color: "#5C3317",
+  fontWeight: "bold",
   padding: 4,
   backgroundColor: "#FFF4DB",
   fontSize: "1.25rem",
@@ -166,6 +167,13 @@ const IndexPage = () => {
             href={"https://k.nkugame.com/"}
           >
             使用 Kotlin 进行 Android 开发
+          </a>，
+          <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://f.nkugame.com/"}
+          >
+            基于 Flutter 的跨平台应用开发
           </a>
       <br />2. 将每次上机的成果和徽章截图提交到个人的Git项目中
       <br />3. 每次上机任务的提交截止时间在下次上机任务之前（<b>晚提交作业会有较重的扣分</b>）
