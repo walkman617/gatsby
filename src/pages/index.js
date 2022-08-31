@@ -121,9 +121,9 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>《网络安全管理》课程资源平台</title>
       <h1 style={headingStyles}>
-      网络安全管理
+      《网络安全管理》
         <br />
-        <span style={headingAccentStyles}> MBA：信息安全管理方向 </span>
+        <span style={headingAccentStyles}> 信息安全管理方向 </span>
         <span role="img" aria-label="Party popper emojis">
         🚀 
         </span>
@@ -174,7 +174,7 @@ const IndexPage = () => {
           </li>
         ))}
       </ul>
-      <span>Copyright © 2022 南开大学, 软件学院. Built with <a target="_blank" href="https://www.gatsbyjs.com/">Gatsby</a>. </span>
+      <span>Copyright © 2022 南开大学, 商学院.  </span>
       
     </main>
   )
