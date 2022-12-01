@@ -83,15 +83,6 @@ const badgeStyle = {
 // data
 const links = [
   {
-    text: "微信小程序与云开发(PPT)",
-    target: "_blank",
-    url: "https://github.com/walkman617/wechat",
-    description:
-      "想要更具体了解关于框架、组件、API的详细内容，请参考对应的参考文档。",
-    QA:"",
-    color: "#E95800",
-  },
-  {
     text: "微信公众平台",
     target: "_blank",
     url: "https://mp.weixin.qq.com/",
@@ -148,18 +139,7 @@ const IndexPage = () => {
 
       <p style={paragraphStyles}>
 
-      <code style={codeStyles}>选课名单（
-      <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/sheet/DYldualFLZXVKYWtZ"}
-          >
-            腾讯文档
-          </a>）</code><br />
-      <br />1. 填写个人邮箱：受邀加入tapd.cn上的项目“智能移动开发_2022春”，用于上机实践中的答疑；
-      <br />2. 填写个人Git项目的访问地址：如github.com、gitLab.com、gitee.com等，用于提交作业和报告。
-      <br /><br /><br />
-
+      
       <code style={codeStyles}>课程学习与实践（60%）</code><br />
       <br />1. 课程内容：<a
             style={linkStyle}
@@ -178,6 +158,8 @@ const IndexPage = () => {
       <br />2. 将每次上机的成果和徽章截图提交到个人的Git项目中
       <br />3. 每次上机任务的提交截止时间在下次上机任务之前（<b>晚提交作业会有较重的扣分</b>）
       <br /><br /><br />
+
+      
       <code style={codeStyles}>学期项目报告（40%）</code><br />
       <br />
       1. 参加 
