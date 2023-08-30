@@ -9,21 +9,22 @@ const pageStyles = {
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  maxWidth: 680,
+  maxWidth: 880,
 }
 const headingAccentStyles = {
   color: "#663399",
 }
 const paragraphStyles = {
   marginBottom: 48,
+  fontSize: 24,
 }
 const codeStyles = {
   color: "#5C3317",
   fontWeight: "bold",
   padding: 4,
   backgroundColor: "#FFF4DB",
-  fontSize: "1.5rem",
-  borderRadius: 4,
+  fontSize: "2rem",
+  borderRadius: 6,
 }
 const listStyles = {
   marginBottom: 96,
@@ -31,21 +32,21 @@ const listStyles = {
 }
 const listItemStyles = {
   fontWeight: 300,
-  fontSize: 36,
-  maxWidth: 760,
+  fontSize: 32,
+  maxWidth: 960,
   marginBottom: 30,
 }
 
 const linkStyle = {
   color: "#8954A8",
   fontWeight: "bold",
-  fontSize: 28,
+  fontSize: 24,
   verticalAlign: "5%",
 }
 
 const descriptionStyle = {
   color: "#232129",
-  fontSize: 26,
+  fontSize: 22,
   marginTop: 10,
   marginBottom: 0,
   lineHeight: 1.25,
@@ -55,7 +56,7 @@ const badgeStyle = {
   color: "#fff",
   backgroundColor: "#088413",
   border: "1px solid #088413",
-  fontSize: 24,
+  fontSize: 20,
   fontWeight: "bold",
   letterSpacing: 1,
   borderRadius: 4,
