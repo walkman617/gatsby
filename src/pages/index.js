@@ -3,19 +3,19 @@ import * as React from "react"
 // styles
 const pageStyles = {
   color: "#232129",
-  padding: 42,
+  padding: 20,
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
 const headingStyles = {
   marginTop: 0,
-  marginBottom: 64,
+  marginBottom: 48,
   maxWidth: 880,
 }
 const headingAccentStyles = {
   color: "#663399",
 }
 const paragraphStyles = {
-  marginBottom: 38,
+  marginBottom: 28,
   fontSize: 22,
 }
 const codeStyles = {
@@ -27,7 +27,7 @@ const codeStyles = {
   borderRadius: 5,
 }
 const listStyles = {
-  marginBottom: 96,
+  marginBottom: 60,
   paddingLeft: 0,
 }
 const listItemStyles = {
