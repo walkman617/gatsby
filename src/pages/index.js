@@ -136,7 +136,6 @@ const IndexPage = () => {
           >
             Link
           </a>
-      <br />Final Report: to be determined
       <br /><br /><br />
 
       
@@ -150,15 +149,15 @@ const IndexPage = () => {
             target="_blank"
             href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-1"}
             >
-            Original
+              Original  
             </a> 
-            or 
+              or   
             <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-1"}
             >
-            Mirrored
+              Mirrored  
             </a>
           
           </li>
