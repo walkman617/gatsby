@@ -144,17 +144,28 @@ const IndexPage = () => {
       <br />
       Lesson 1: Kotlin basics
           <br />
-          <li>Pathway: <a
+          <li>Pathway: 
+            <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-1"}
-          >
-            learn online
-          </a></li>
+            >
+            Original
+            </a> 
+            or 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-1"}
+            >
+            Mirrored
+            </a>
+          
+          </li>
           <li>Homework: <a
             style={linkStyle}
             target="_blank"
-            href={"https://docs.qq.com/form/page/DYlpDbUh1UVZSdEFl"}
+            href={"https://docs.qq.com/form/page/DYnpRYk9kaU9zbnBz"}
           >
             submit online
           </a></li>
