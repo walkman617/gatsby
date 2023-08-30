@@ -3,7 +3,7 @@ import * as React from "react"
 // styles
 const pageStyles = {
   color: "#232129",
-  padding: 60,
+  padding: 42,
   fontFamily: "-apple-system, Roboto, sans-serif, serif",
 }
 const headingStyles = {
@@ -15,16 +15,16 @@ const headingAccentStyles = {
   color: "#663399",
 }
 const paragraphStyles = {
-  marginBottom: 48,
-  fontSize: 24,
+  marginBottom: 38,
+  fontSize: 22,
 }
 const codeStyles = {
   color: "#5C3317",
   fontWeight: "bold",
   padding: 4,
   backgroundColor: "#FFF4DB",
-  fontSize: "2rem",
-  borderRadius: 6,
+  fontSize: "1.6rem",
+  borderRadius: 5,
 }
 const listStyles = {
   marginBottom: 96,
@@ -32,7 +32,7 @@ const listStyles = {
 }
 const listItemStyles = {
   fontWeight: 300,
-  fontSize: 32,
+  fontSize: 28,
   maxWidth: 960,
   marginBottom: 30,
 }
