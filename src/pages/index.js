@@ -9,7 +9,7 @@ const pageStyles = {
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  maxWidth: 480,
+  maxWidth: 680,
 }
 const headingAccentStyles = {
   color: "#663399",
@@ -22,7 +22,7 @@ const codeStyles = {
   fontWeight: "bold",
   padding: 4,
   backgroundColor: "#FFF4DB",
-  fontSize: "1.25rem",
+  fontSize: "1.5rem",
   borderRadius: 4,
 }
 const listStyles = {
@@ -31,7 +31,7 @@ const listStyles = {
 }
 const listItemStyles = {
   fontWeight: 300,
-  fontSize: 24,
+  fontSize: 36,
   maxWidth: 760,
   marginBottom: 30,
 }
@@ -39,13 +39,13 @@ const listItemStyles = {
 const linkStyle = {
   color: "#8954A8",
   fontWeight: "bold",
-  fontSize: 16,
+  fontSize: 28,
   verticalAlign: "5%",
 }
 
 const descriptionStyle = {
   color: "#232129",
-  fontSize: 14,
+  fontSize: 26,
   marginTop: 10,
   marginBottom: 0,
   lineHeight: 1.25,
@@ -55,7 +55,7 @@ const badgeStyle = {
   color: "#fff",
   backgroundColor: "#088413",
   border: "1px solid #088413",
-  fontSize: 11,
+  fontSize: 24,
   fontWeight: "bold",
   letterSpacing: 1,
   borderRadius: 4,
@@ -112,7 +112,7 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>《Intelligent Mobile Development》</title>
+      <title>Intelligent Mobile Development</title>
       <h1 style={headingStyles}>
       Intelligent Mobile Development
         <br />
@@ -143,8 +143,20 @@ const IndexPage = () => {
       <br />
       Lesson 1: Kotlin basics
           <br />
-          <li>Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-1</li>
-          <li>Homework: https://docs.qq.com/form/page/DYlpDbUh1UVZSdEFl</li>
+          <li>Pathway: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-1"}
+          >
+            learn online
+          </a></li>
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYlpDbUh1UVZSdEFl"}
+          >
+            submit online
+          </a></li>
       <br />
       </p>
       <ul style={listStyles}>
