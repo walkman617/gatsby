@@ -28,7 +28,7 @@ const codeStyles = {
 }
 const listStyles = {
   marginBottom: 60,
-  paddingLeft: 0,
+  paddingLeft: 20,
 }
 const listItemStyles = {
   fontWeight: 300,
