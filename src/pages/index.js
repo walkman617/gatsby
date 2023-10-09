@@ -169,6 +169,35 @@ const IndexPage = () => {
             submit online
           </a></li>
       <br />
+      <br />
+      Lesson 2: Kotlin Functions
+          <br />
+          <li>Pathway: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-2"}
+            >
+              Original  
+            </a> 
+              or   
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-2"}
+            >
+              Mirrored  
+            </a>
+          
+          </li>
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYll5R3FUT2ZqclRN"}
+          >
+            submit online
+          </a></li>
+      <br />
       </p>
       <ul style={listStyles}>
         
