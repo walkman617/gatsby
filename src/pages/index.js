@@ -140,6 +140,8 @@ const IndexPage = () => {
 
       
       <code style={codeStyles}>Assignments</code><br />
+
+
       <br />
       Lesson 1: Kotlin basics
           <br />
@@ -169,6 +171,8 @@ const IndexPage = () => {
             submit online
           </a></li>
       <br />
+
+
       <br />
       Lesson 2: Kotlin Functions
           <br />
@@ -198,6 +202,37 @@ const IndexPage = () => {
             submit online
           </a></li>
       <br />
+
+      <br />
+      Lesson 3: Classes and objects
+          <br />
+          <li>Pathway: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-3"}
+            >
+              Original  
+            </a> 
+              or   
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-3"}
+            >
+              Mirrored  
+            </a>
+          
+          </li>
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYnJYQktRU2JxTFRq"}
+          >
+            submit online
+          </a></li>
+      <br />
+
       </p>
       <ul style={listStyles}>
         
