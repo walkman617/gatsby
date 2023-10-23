@@ -233,6 +233,36 @@ const IndexPage = () => {
           </a></li>
       <br />
 
+      <br />
+      Lesson 4: Build your first Android app
+          <br />
+          <li>Pathway: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-4"}
+            >
+              Original  
+            </a> 
+              or   
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-4"}
+            >
+              Mirrored  
+            </a>
+          
+          </li>
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYkJBWHRJU3JoWVJ3"}
+          >
+            submit online
+          </a></li>
+      <br />
+
       </p>
       <ul style={listStyles}>
         
