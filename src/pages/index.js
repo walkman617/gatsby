@@ -293,6 +293,37 @@ const IndexPage = () => {
           </a></li>
       <br />
 
+
+      <br />
+      Lesson 6: App Navigation
+          <br />
+          <li>Pathway: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-6"}
+            >
+              Original  
+            </a> 
+              or   
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-6"}
+            >
+              Mirrored  
+            </a>
+          
+          </li>
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYldDTHd2ZXR5Q3hS"}
+          >
+            submit online
+          </a></li>
+      <br />
+
       </p>
       <ul style={listStyles}>
         
