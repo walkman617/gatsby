@@ -303,9 +303,16 @@ const IndexPage = () => {
             target="_blank"
             href={"https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2"}
             >
-              Navigation in Jetpack Compose  
+              Original  
             </a> 
-          
+            or   
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2"}
+            >
+              Mirrored  
+            </a>
           </li>
           <li>Homework: <a
             style={linkStyle}
