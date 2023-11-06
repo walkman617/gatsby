@@ -301,18 +301,10 @@ const IndexPage = () => {
             <a
             style={linkStyle}
             target="_blank"
-            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-6"}
+            href={"https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2"}
             >
-              Original  
+              Navigation in Jetpack Compose  
             </a> 
-              or   
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-6"}
-            >
-              Mirrored  
-            </a>
           
           </li>
           <li>Homework: <a
