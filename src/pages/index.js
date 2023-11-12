@@ -323,6 +323,37 @@ const IndexPage = () => {
           </a></li>
       <br />
 
+
+      <br />
+      Lesson 7: Activity and Fragment Lifecycles
+          <br />
+          <li>Pathway: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.com/codelabs/basic-android-kotlin-compose-activity-lifecycle"}
+            >
+              Original  
+            </a> 
+            or   
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-activity-lifecycle"}
+            >
+              Mirrored  
+            </a>
+          </li>
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYmxvVmJnSlZ6QUxn"}
+          >
+            submit online
+          </a></li>
+      <br />
+
+
       </p>
       <ul style={listStyles}>
         
