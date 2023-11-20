@@ -354,6 +354,36 @@ const IndexPage = () => {
       <br />
 
 
+      <br />
+      Lesson 8: App architecture (UI Layer)
+          <br />
+          <li>Pathway: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state"}
+            >
+              Original  
+            </a> 
+            or   
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-viewmodel-and-state"}
+            >
+              Mirrored  
+            </a>
+          </li>
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYlJ1dFZJVkducnRT"}
+          >
+            submit online
+          </a></li>
+      <br />
+
+
       </p>
       <ul style={listStyles}>
         
