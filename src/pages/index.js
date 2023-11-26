@@ -136,7 +136,38 @@ const IndexPage = () => {
           >
             Link
           </a>
-      <br /><br /><br />
+      <br />
+
+      <br />Final Report:<a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/doc/DYm5pZ3pJRndCaGth"}
+          >
+            Link
+          </a>
+      <br />
+
+      <br />Android Basics with Compose:<a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/android-basics-compose/course"}
+          >
+            Link
+          </a>
+      <br />
+
+      <br />Compose Samples:<a
+            style={linkStyle}
+            target="_blank"
+            href={"https://github.com/android/compose-samples"}
+          >
+            Link
+          </a>
+      <br />
+
+      
+
+      <br />
 
       
       <code style={codeStyles}>Assignments</code><br />
@@ -383,6 +414,34 @@ const IndexPage = () => {
           </a></li>
       <br />
 
+
+      <br />
+      Lesson 9: App architecture (Persistence)
+          <br />
+          <li>Codelab 1: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-persisting-data-room"}
+          >
+            Persist data with Room
+          </a></li>
+
+          <li>Codelab 2: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-update-data-room"}
+          >
+            Read and update data with Room
+          </a></li>
+
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYkVMQXhVam1CcVZZ"}
+          >
+            submit online
+          </a></li>
+      <br />
 
       </p>
       <ul style={listStyles}>
