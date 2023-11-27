@@ -129,7 +129,7 @@ const IndexPage = () => {
 
       
       <code style={codeStyles}>Resources</code><br />
-      <br />Slides：<a
+      <br />Slides: <a
             style={linkStyle}
             target="_blank"
             href={"https://docs.qq.com/s/wCU0geKheAqdwjSB15I2Zq"}
@@ -138,7 +138,7 @@ const IndexPage = () => {
           </a>
       <br />
 
-      <br />Final Report:<a
+      <br />Final Report: <a
             style={linkStyle}
             target="_blank"
             href={"https://docs.qq.com/doc/DYm5pZ3pJRndCaGth"}
@@ -147,7 +147,7 @@ const IndexPage = () => {
           </a>
       <br />
 
-      <br />Android Basics with Compose:<a
+      <br />Android Basics with Compose: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/courses/android-basics-compose/course"}
@@ -156,7 +156,7 @@ const IndexPage = () => {
           </a>
       <br />
 
-      <br />Compose Samples:<a
+      <br />Compose Samples: <a
             style={linkStyle}
             target="_blank"
             href={"https://github.com/android/compose-samples"}
