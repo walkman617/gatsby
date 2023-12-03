@@ -443,6 +443,27 @@ const IndexPage = () => {
           </a></li>
       <br />
 
+
+      <br />
+      Lesson 10: Build apps with composables
+          <br />
+          <li>Codelab: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-6-pathway-1"}
+          >
+            Introduction to SQL
+          </a></li>
+
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYk56WnJodVRuaGRh"}
+          >
+            submit online
+          </a></li>
+      <br />
+
       </p>
       <ul style={listStyles}>
         
