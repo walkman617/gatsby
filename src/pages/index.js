@@ -48,7 +48,7 @@ const descriptionStyle = {
   color: "#232129",
   fontSize: 22,
   marginTop: 10,
-  marginBottom: 0,
+  marginBottom: 10,
   lineHeight: 1.25,
 }
 
