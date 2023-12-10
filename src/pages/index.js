@@ -117,7 +117,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
       Intelligent Mobile Development
         <br />
-        <span style={headingAccentStyles}> — Develop Android apps with Kotlin </span>
+        <span style={headingAccentStyles}> 2023 Autumn </span>
         <span role="img" aria-label="Party popper emojis">
         🚀 
         </span>
@@ -168,7 +168,7 @@ const IndexPage = () => {
       
 
       <br />
-
+      <br />
       
       <code style={codeStyles}>Assignments</code><br />
 
@@ -459,8 +459,15 @@ const IndexPage = () => {
           </a></li>
       <br />
 
-
       </p>
+
+
+
+      <br />
+      <br />
+      
+      <code style={codeStyles}>References</code><br />
+
       <ul style={listStyles}>
         
         {links.map(link => (
@@ -484,6 +491,8 @@ const IndexPage = () => {
           </li>
         ))}
       </ul>
+
+      
       <span>Copyright © 2023 College of Software, Nankai University. Built with <a target="_blank" href="https://www.gatsbyjs.com/">Gatsby</a>. </span>
       
     </main>
