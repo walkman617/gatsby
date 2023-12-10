@@ -176,8 +176,7 @@ const IndexPage = () => {
       <br />
       Lesson 1: Kotlin basics
           <br />
-          <li>Pathway: 
-            <a
+          <li>Pathway: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-1"}
@@ -207,8 +206,7 @@ const IndexPage = () => {
       <br />
       Lesson 2: Kotlin Functions
           <br />
-          <li>Pathway: 
-            <a
+          <li>Pathway: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-2"}
@@ -237,8 +235,7 @@ const IndexPage = () => {
       <br />
       Lesson 3: Classes and objects
           <br />
-          <li>Pathway: 
-            <a
+          <li>Pathway: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-3"}
@@ -267,8 +264,7 @@ const IndexPage = () => {
       <br />
       Lesson 4: Build your first Android app
           <br />
-          <li>Pathway: 
-            <a
+          <li>Pathway: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-4"}
@@ -297,8 +293,7 @@ const IndexPage = () => {
       <br />
       Lesson 5: Layouts
           <br />
-          <li>Pathway: 
-            <a
+          <li>Pathway: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-5"}
@@ -328,8 +323,7 @@ const IndexPage = () => {
       <br />
       Lesson 6: App Navigation
           <br />
-          <li>Pathway:  
-            <a
+          <li>Pathway: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2"}
@@ -350,8 +344,7 @@ const IndexPage = () => {
       <br />
       Lesson 7: Activity and Fragment Lifecycles
           <br />
-          <li>Codelab:  
-            <a
+          <li>Codelab: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-activity-lifecycle"}
@@ -372,8 +365,7 @@ const IndexPage = () => {
       <br />
       Lesson 8: App architecture (UI Layer)
           <br />
-          <li>Codelab: 
-            <a
+          <li>Codelab: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-viewmodel-and-state"}
@@ -423,7 +415,7 @@ const IndexPage = () => {
       <br />
       Lesson 10: Build apps with composables
           <br />
-          <li>Codelab: <a
+          <li>Pathway: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-6-pathway-1"}
@@ -444,14 +436,16 @@ const IndexPage = () => {
       <br />
       Lesson 11: Get data from the internet
           <br />
-          <li>Pathway: 
-            <a
+          <li>Pathway: <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1"}
             >
             Get data from the internet
             </a>
+            <br />
+            Note: In Step 5: "Get data from the internet", if you cannot connect to the BASE_URL 
+            ("https://android-kotlin-fun-mars-server.appspot.com"), please replace the url with "https://open.nkugame.com"  
           </li>
 
           <li>Homework: <a
