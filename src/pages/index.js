@@ -443,9 +443,11 @@ const IndexPage = () => {
             >
             Get data from the internet
             </a>
-            <br />
-            Note: In Step 5: "Get data from the internet", if you cannot connect to the BASE_URL 
-            ("https://android-kotlin-fun-mars-server.appspot.com"), please replace the url with "https://open.nkugame.com"  
+            <p style={descriptionStyle}>
+            Note: In the Step 5 codelab ("Get data from the internet") , 
+            if you cannot connect to the BASE_URL ("https://android-kotlin-fun-mars-server.appspot.com"), 
+            please replace the url with "https://open.nkugame.com".  
+            </p>
           </li>
 
           <li>Homework: <a
