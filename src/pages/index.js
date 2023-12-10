@@ -328,21 +328,13 @@ const IndexPage = () => {
       <br />
       Lesson 6: App Navigation
           <br />
-          <li>Pathway: 
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2"}
-            >
-              Original  
-            </a> 
-            or   
+          <li>Pathway:  
             <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2"}
             >
-              Mirrored  
+              Navigation in Jetpack Compose  
             </a>
           </li>
           <li>Homework: <a
@@ -358,21 +350,13 @@ const IndexPage = () => {
       <br />
       Lesson 7: Activity and Fragment Lifecycles
           <br />
-          <li>Pathway: 
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.com/codelabs/basic-android-kotlin-compose-activity-lifecycle"}
-            >
-              Original  
-            </a> 
-            or   
+          <li>Codelab:  
             <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-activity-lifecycle"}
             >
-              Mirrored  
+              Stages of the Activity lifecycle  
             </a>
           </li>
           <li>Homework: <a
@@ -388,21 +372,13 @@ const IndexPage = () => {
       <br />
       Lesson 8: App architecture (UI Layer)
           <br />
-          <li>Pathway: 
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state"}
-            >
-              Original  
-            </a> 
-            or   
+          <li>Codelab: 
             <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-viewmodel-and-state"}
             >
-              Mirrored  
+              ViewModel and State in Compose  
             </a>
           </li>
           <li>Homework: <a
@@ -463,6 +439,30 @@ const IndexPage = () => {
             submit online
           </a></li>
       <br />
+
+
+      <br />
+      Lesson 11: Get data from the internet
+          <br />
+          <li>Pathway: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1"}
+            >
+            Get data from the internet
+            </a>
+          </li>
+
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYlpiUXVNcEhvQXZa"}
+          >
+            submit online
+          </a></li>
+      <br />
+
 
       </p>
       <ul style={listStyles}>
