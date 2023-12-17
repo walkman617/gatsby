@@ -459,6 +459,34 @@ const IndexPage = () => {
           </a></li>
       <br />
 
+
+      <br />
+      Lesson 12: Load and display images from the internet
+          <br />
+          <li>Codelab: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-load-images"}
+            >
+            Load and display images from the internet
+            </a>
+            <p style={descriptionStyle}>
+            Note: If you cannot connect to the baseUrl ("https://android-kotlin-fun-mars-server.appspot.com/") 
+            given in the file "AppContainer.kt" (in package "com.example.marsphotos.data"), 
+            please replace the baseUrl value with "https://open.nkugame.com".  
+            </p>
+          </li>
+
+          <li>Homework: <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYnhHcnJNcGhnUFpQ"}
+          >
+            submit online
+          </a></li>
+      <br />
+
+
       </p>
 
 
