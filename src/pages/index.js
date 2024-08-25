@@ -80,11 +80,12 @@ const links = [
       color: "#1099A8",
   },
   {
-    text: "Develop Android apps with Kotlin",
+    text: "Jetpack Compose",
     target: "_blank",
-    url: "https://developer.android.com/kotlin",
+    url: "https://developer.android.com/develop/ui/compose",
+    badge: true,
     description:
-      "Write better Android apps faster with Kotlin. Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety.",
+      "Jetpack Compose is Android’s recommended modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.",
       QA:"",
       color: "#BC027F",
   },
@@ -97,16 +98,6 @@ const links = [
       QA:"",
       color: "#0D96F2",
   },
-  {
-    text: "Machine learning for mobile developers",
-    target: "_blank",
-    url: "https://developers.google.com/ml-kit",
-    badge: true,
-    description:
-      "ML Kit brings Google’s machine learning expertise to mobile developers in a powerful and easy-to-use package.",
-    QA:"",
-    color: "#663399",
-  },
 ]
 
 // markup
@@ -117,7 +108,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
       Intelligent Mobile Development
         <br />
-        <span style={headingAccentStyles}> 2023 Autumn </span>
+        <span style={headingAccentStyles}> 2024 Autumn </span>
         <span role="img" aria-label="Party popper emojis">
         🚀 
         </span>
@@ -132,16 +123,16 @@ const IndexPage = () => {
       <br />Slides: <a
             style={linkStyle}
             target="_blank"
-            href={"https://docs.qq.com/s/wCU0geKheAqdwjSB15I2Zq"}
+            href={"https://docs.qq.com/s/OH8ECqFI_FSTgdTnGcqmYq"}
           >
             Link
           </a>
       <br />
 
-      <br />Final Report: <a
+      <br />Kotlin Playground: <a
             style={linkStyle}
             target="_blank"
-            href={"https://docs.qq.com/doc/DYm5pZ3pJRndCaGth"}
+            href={"https://developer.android.google.cn/training/kotlinplayground"}
           >
             Link
           </a>
@@ -155,16 +146,6 @@ const IndexPage = () => {
             Link
           </a>
       <br />
-
-      <br />Compose Samples: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://github.com/android/compose-samples"}
-          >
-            Link
-          </a>
-      <br />
-
       
 
       <br />
@@ -174,316 +155,26 @@ const IndexPage = () => {
 
 
       <br />
-      Lesson 1: Kotlin basics
+      Unit 1: Your first Android app
           <br />
-          <li>Pathway: <a
+          <li>Pathway 1 : <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-1"}
             >
-              Original  
-            </a> 
-              or   
+              Introduction to programming in Kotlin  
+            </a> ,
+            
             <a
             style={linkStyle}
             target="_blank"
-            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-1"}
+            href={"https://docs.qq.com/form/page/DYlRVZkNKbmlicnFa"}
             >
-              Mirrored  
-            </a>
-          
-          </li>
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYnpRYk9kaU9zbnBz"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-
-      <br />
-      Lesson 2: Kotlin Functions
-          <br />
-          <li>Pathway: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-2"}
-            >
-              Original  
+              Submit "Screenshots of Codelabs"
             </a> 
-              or   
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-2"}
-            >
-              Mirrored  
-            </a>
           
           </li>
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYll5R3FUT2ZqclRN"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-      <br />
-      Lesson 3: Classes and objects
-          <br />
-          <li>Pathway: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-3"}
-            >
-              Original  
-            </a> 
-              or   
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-3"}
-            >
-              Mirrored  
-            </a>
-          
-          </li>
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYnJYQktRU2JxTFRq"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-      <br />
-      Lesson 4: Build your first Android app
-          <br />
-          <li>Pathway: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-4"}
-            >
-              Original  
-            </a> 
-              or   
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-4"}
-            >
-              Mirrored  
-            </a>
-          
-          </li>
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYkJBWHRJU3JoWVJ3"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-      <br />
-      Lesson 5: Layouts
-          <br />
-          <li>Pathway: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.com/courses/pathways/android-development-with-kotlin-5"}
-            >
-              Original  
-            </a> 
-              or   
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/courses/pathways/android-development-with-kotlin-5"}
-            >
-              Mirrored  
-            </a>
-          
-          </li>
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYld0SVdyUkh2U0hF"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-
-      <br />
-      Lesson 6: App Navigation
-          <br />
-          <li>Pathway: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2"}
-            >
-              Navigation in Jetpack Compose  
-            </a>
-          </li>
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYldDTHd2ZXR5Q3hS"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-
-      <br />
-      Lesson 7: Activity and Fragment Lifecycles
-          <br />
-          <li>Codelab: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-activity-lifecycle"}
-            >
-              Stages of the Activity lifecycle  
-            </a>
-          </li>
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYmxvVmJnSlZ6QUxn"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-
-      <br />
-      Lesson 8: App architecture (UI Layer)
-          <br />
-          <li>Codelab: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-viewmodel-and-state"}
-            >
-              ViewModel and State in Compose  
-            </a>
-          </li>
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYlJ1dFZJVkducnRT"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-
-      <br />
-      Lesson 9: App architecture (Persistence)
-          <br />
-          <li>Codelab 1: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-persisting-data-room"}
-          >
-            Persist data with Room
-          </a></li>
-
-          <li>Codelab 2: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-update-data-room"}
-          >
-            Read and update data with Room
-          </a></li>
-
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYkVMQXhVam1CcVZZ"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-
-      <br />
-      Lesson 10: Build apps with composables
-          <br />
-          <li>Pathway: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-6-pathway-1"}
-          >
-            Introduction to SQL
-          </a></li>
-
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYk56WnJodVRuaGRh"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-
-      <br />
-      Lesson 11: Get data from the internet
-          <br />
-          <li>Pathway: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-5-pathway-1"}
-            >
-            Get data from the internet
-            </a>
-            <p style={descriptionStyle}>
-            Note: In the Step 5 codelab ("Get data from the internet") , 
-            if you cannot connect to the BASE_URL ("https://android-kotlin-fun-mars-server.appspot.com"), 
-            please replace the url with "https://open.nkugame.com".  
-            </p>
-          </li>
-
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYlpiUXVNcEhvQXZa"}
-          >
-            submit online
-          </a></li>
-      <br />
-
-
-      <br />
-      Lesson 12: Load and display images from the internet
-          <br />
-          <li>Codelab: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-load-images"}
-            >
-            Load and display images from the internet
-            </a>
-            <p style={descriptionStyle}>
-            Note: If you cannot connect to the baseUrl ("https://android-kotlin-fun-mars-server.appspot.com/") 
-            given in the file "AppContainer.kt" (in package "com.example.marsphotos.data"), 
-            please replace the baseUrl value with "https://open.nkugame.com".  
-            </p>
-          </li>
-
-          <li>Homework: <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYnhHcnJNcGhnUFpQ"}
-          >
-            submit online
-          </a></li>
+         
       <br />
 
 
@@ -521,7 +212,7 @@ const IndexPage = () => {
       </ul>
 
       
-      <span>Copyright © 2023 College of Software, Nankai University. Built with <a target="_blank" href="https://www.gatsbyjs.com/">Gatsby</a>. </span>
+      <span>Copyright © 2024 College of Software, Nankai University. Built with <a target="_blank" href="https://www.gatsbyjs.com/">Gatsby</a>. </span>
       
     </main>
   )
