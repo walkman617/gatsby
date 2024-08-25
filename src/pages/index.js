@@ -157,13 +157,13 @@ const IndexPage = () => {
       <br />
       Assignment 1 (From Sep 2,2024 to Sep 8, 2024) 
           <br />
-          <li>Unit 1: Your first Android app
+          <li>Unit 1 - Pathway 1: 
             <a
             style={linkStyle}
             target="_blank"
             href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-1"}
             >
-              Pathway 1: Introduction to programming in Kotlin  
+              Introduction to programming in Kotlin  
             </a> 
           </li>
 
