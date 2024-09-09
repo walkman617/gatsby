@@ -189,7 +189,7 @@ const IndexPage = () => {
             target="_blank"
             href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2"}
             >
-              Introduction to programming in Kotlin  
+              Setup Android Studio  
             </a> 
           </li>
 
@@ -198,6 +198,32 @@ const IndexPage = () => {
             style={linkStyle}
             target="_blank"
             href={"https://docs.qq.com/form/page/DYlBhdkZYUmlrekdj"}
+            >
+               Screenshots of Codelabs
+            </a>
+          </li>
+         
+      <br />
+
+
+      <br />
+      Assignment 3 (From Sep 16,2024 to Sep 22, 2024) 
+          <br />
+          <li>Unit 1 - Pathway 3: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-3"}
+            >
+              Build a basic layout  
+            </a> 
+          </li>
+
+          <li> Submit:  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYnZUZXVDakdwSHR3"}
             >
                Screenshots of Codelabs
             </a>
