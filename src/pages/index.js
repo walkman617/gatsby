@@ -174,12 +174,36 @@ const IndexPage = () => {
             href={"https://docs.qq.com/form/page/DYlRVZkNKbmlicnFa"}
             >
                Screenshots of Codelabs
-            </a> 
-          
+            </a>
           </li>
          
       <br />
 
+
+      <br />
+      Assignment 2 (From Sep 9,2024 to Sep 15, 2024) 
+          <br />
+          <li>Unit 1 - Pathway 2: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-1-pathway-2"}
+            >
+              Introduction to programming in Kotlin  
+            </a> 
+          </li>
+
+          <li> Submit:  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYlBhdkZYUmlrekdj"}
+            >
+               Screenshots of Codelabs
+            </a>
+          </li>
+         
+      <br />
 
       </p>
 
