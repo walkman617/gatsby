@@ -207,7 +207,7 @@ const IndexPage = () => {
 
 
       <br />
-      Assignment 3 (From Sep 16,2024 to Sep 22, 2024) 
+      Assignment 3 (From Sep 23,2024 to Sep 29, 2024) 
           <br />
           <li>Unit 1 - Pathway 3: 
             <a
