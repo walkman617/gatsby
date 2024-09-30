@@ -237,7 +237,7 @@ const IndexPage = () => {
             target="_blank"
             href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1"}
             >
-              Build a basic layout  
+              Kotlin fundamentals  
             </a> 
           </li>
 
