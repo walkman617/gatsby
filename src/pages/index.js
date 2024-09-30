@@ -175,8 +175,7 @@ const IndexPage = () => {
             >
                Screenshots of Codelabs
             </a>
-          </li>
-         
+          </li>         
       <br />
 
 
@@ -201,8 +200,7 @@ const IndexPage = () => {
             >
                Screenshots of Codelabs
             </a>
-          </li>
-         
+          </li>         
       <br />
 
 
@@ -227,8 +225,7 @@ const IndexPage = () => {
             >
                Screenshots of Codelabs
             </a>
-          </li>
-         
+          </li>         
       <br />
 
       <br />
@@ -252,8 +249,7 @@ const IndexPage = () => {
             >
                Screenshots of Codelabs
             </a>
-          </li>
-         
+          </li>         
       <br />
 
       </p>
