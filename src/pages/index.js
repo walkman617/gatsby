@@ -277,6 +277,31 @@ const IndexPage = () => {
           </li>         
       <br />
 
+      
+      <br />
+      Assignment 6 (From Oct 21, 2024 to Oct 27,2024) 
+          <br />
+          <li>Unit 2 - Pathway 3: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-3"}
+            >
+              Interacting with UI and state  
+            </a> 
+          </li>
+
+          <li> Submit:  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYmhwb1FEcElZV1hU"}
+            >
+               Screenshots of Codelabs
+            </a>
+          </li>         
+      <br />
+
       </p>
 
 
