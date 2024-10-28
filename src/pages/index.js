@@ -302,6 +302,31 @@ const IndexPage = () => {
           </li>         
       <br />
 
+      
+      <br />
+      Assignment 7 (From Oct 28, 2024 to Nov 4,2024) 
+          <br />
+          <li>Unit 3 - Pathway 1: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-1"}
+            >
+              More Kotlin fundamentals  
+            </a> 
+          </li>
+
+          <li> Submit:  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYlBnWVp5TEp0TEFq"}
+            >
+               Screenshots of Codelabs
+            </a>
+          </li>         
+      <br />
+
       </p>
 
 
