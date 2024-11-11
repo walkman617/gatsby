@@ -327,7 +327,6 @@ const IndexPage = () => {
           </li>         
       <br />
 
-      
       <br />
       Assignment 8 (From Nov 4, 2024 to Nov 10,2024) 
           <br />
@@ -346,6 +345,30 @@ const IndexPage = () => {
             style={linkStyle}
             target="_blank"
             href={"https://docs.qq.com/form/page/DYnV0UEpRSk10UHBC"}
+            >
+               Screenshots of Codelabs
+            </a>
+          </li>         
+      <br />
+      
+      <br />
+      Assignment 9 (From Nov 11, 2024 to Nov 17,2024) 
+          <br />
+          <li>Unit 3 - Pathway 3: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-3-pathway-3"}
+            >
+              Build beautiful apps  
+            </a> 
+          </li>
+
+          <li> Submit:  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYmZmU2liU3h4Tkp6"}
             >
                Screenshots of Codelabs
             </a>
