@@ -453,7 +453,7 @@ const IndexPage = () => {
       Final Report (Before 31 December 2024) 
           <br />
           <li>
-          1.Design and develop a mobile app to show your country's arts or culture.
+          1. Design and develop a mobile app to show your country's arts or culture.
           </li>
           <li>2. You needn't develop the app from ZERO. You can make it by extending one sample project from the 
             <a
@@ -465,13 +465,22 @@ const IndexPage = () => {
             </a>.
           </li>
 
-          <li> 3. Submit your final report with the filename "StudentID-Name.doc/pdf" to     
+          <li> 3. Submit your final report with the filename "StudentID-Name.doc/pdf" (see: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/doc/DYlBMY1daSmthQk5n"}
+            >
+              Final Report  
+            </a>
+            
+            ) to 
             <a
             style={linkStyle}
             target="_blank"
             href={"https://docs.qq.com/form/page/DYldQQUNaalJJblB3"}
             >
-               "Final REPORT"
+               here
             </a> before 31 December 2024.
           </li>         
       <br />
