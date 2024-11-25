@@ -455,17 +455,17 @@ const IndexPage = () => {
           <li>
           1.Design and develop a mobile app to show your country's arts or culture.
           </li>
-          <li>2. You needn’t develop the app from ZERO. You can make it by extending one sample project from: 
+          <li>2. You needn't develop the app from ZERO. You can make it by extending one sample project from the 
             <a
             style={linkStyle}
             target="_blank"
             href={"https://github.com/android/compose-samples"}
             >
               Jetpack Compose Samples  
-            </a> .
+            </a>.
           </li>
 
-          <li> 3. Submit your final report with the filename “StudentID-Name.doc/pdf” to   
+          <li> 3. Submit your final report with the filename "StudentID-Name.doc/pdf" to     
             <a
             style={linkStyle}
             target="_blank"
