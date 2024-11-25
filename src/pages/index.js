@@ -401,6 +401,54 @@ const IndexPage = () => {
           </li>         
       <br />
 
+      <br />
+      Assignment 11 (From Nov 25, 2024 to Dec 1,2024) 
+          <br />
+          <li>Unit 4 - Pathway 2: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-2"}
+            >
+              Navigation in Jetpack Compose  
+            </a> 
+          </li>
+
+          <li> Submit:  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYlBYSFFTeVFzV05F"}
+            >
+               Screenshots of Codelabs
+            </a>
+          </li>         
+      <br />
+
+      <br />
+      Assignment 12 (From Dec 2, 2024 to Dec 8,2024) 
+          <br />
+          <li>Unit 4 - Pathway 3: 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-4-pathway-3"}
+            >
+              Adapt for different screen sizes  
+            </a> 
+          </li>
+
+          <li> Submit:  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYmJ3Y2NBZXVyYVdC"}
+            >
+               Screenshots of Codelabs
+            </a>
+          </li>         
+      <br />
+
 
       </p>
 
