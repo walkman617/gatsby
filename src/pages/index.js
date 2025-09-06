@@ -155,9 +155,9 @@ const IndexPage = () => {
 
 
       <br />
-      Assignment 1 (TBD) 
+      Unit 1 - Pathway 1 
           <br />
-          <li>[Unit 1 - Pathway 1] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -166,23 +166,14 @@ const IndexPage = () => {
               Introduction to programming in Kotlin  
             </a> 
           </li>
-
-          <li> [Submit]  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"#"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+    
       <br />
 
 
       <br />
-      Assignment 2 (TBD) 
+      Unit 1 - Pathway 2
           <br />
-          <li>[Unit 1 - Pathway 2] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -196,9 +187,9 @@ const IndexPage = () => {
 
 
       <br />
-      Assignment 3 (TBD) 
+      Unit 1 - Pathway 3 
           <br />
-          <li>[Unit 1 - Pathway 3] 
+          <li>[online course3] 
             <a
             style={linkStyle}
             target="_blank"
@@ -207,13 +198,31 @@ const IndexPage = () => {
               Build a basic layout  
             </a> 
           </li>
+
+           <li> [assignment]  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-composables-practice-problems"}
+            >
+               Project: Create a business card app
+            </a>,
+
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-composables-practice-problems"}
+            >
+               Submit: the screenshots of your project
+            </a>
+          </li> 
   
       <br />
 
       <br />
-      Assignment 4 (TBD) 
+      Unit 2 - Pathway 1
           <br />
-          <li>[Unit 2 - Pathway 1] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -227,9 +236,9 @@ const IndexPage = () => {
 
 
       <br />
-      Assignment 5 (TBD) 
+      Unit 2 - Pathway 2
           <br />
-          <li>[Unit 2 - Pathway 2] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -243,9 +252,9 @@ const IndexPage = () => {
 
       
       <br />
-      Assignment 6 (TBD) 
+      Unit 2 - Pathway 3 
           <br />
-          <li>[Unit 2 - Pathway 3] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -260,9 +269,9 @@ const IndexPage = () => {
 
       
       <br />
-      Assignment 7 (TBD) 
+      Unit 3 - Pathway 1 
           <br />
-          <li>[Unit 3 - Pathway 1] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -276,9 +285,9 @@ const IndexPage = () => {
       <br />
 
       <br />
-      Assignment 8 (TBD) 
+      Unit 3 - Pathway 2 
           <br />
-          <li>[Unit 3 - Pathway 2] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -293,9 +302,9 @@ const IndexPage = () => {
 
 
       <br />
-      Assignment 9 (TBD) 
+      Unit 3 - Pathway 3 
           <br />
-          <li>[Unit 3 - Pathway 3] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -309,9 +318,9 @@ const IndexPage = () => {
 
       
       <br />
-      Assignment 10 (TBD) 
+      Unit 4 - Pathway 1
           <br />
-          <li>[Unit 4 - Pathway 1] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -325,9 +334,9 @@ const IndexPage = () => {
       <br />
 
       <br />
-      Assignment 11 (TBD) 
+      Unit 4 - Pathway 2
           <br />
-          <li>[Unit 4 - Pathway 2] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
@@ -341,9 +350,9 @@ const IndexPage = () => {
       <br />
 
       <br />
-      Assignment 12 (TBD) 
+      Unit 4 - Pathway 3 
           <br />
-          <li>[Unit 4 - Pathway 3]
+          <li>[online course]
             <a
             style={linkStyle}
             target="_blank"
