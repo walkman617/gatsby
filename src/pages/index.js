@@ -203,13 +203,13 @@ const IndexPage = () => {
             <a
             style={linkStyle}
             target="_blank"
-            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-composables-practice-problems"}
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-business-card"}
             >
                Project: Create a business card app
             </a>
           </li> 
 
-          <li>[Submit] 
+          <li>[submit] 
             <a
             style={linkStyle}
             target="_blank"
