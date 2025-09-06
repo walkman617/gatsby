@@ -132,7 +132,7 @@ const IndexPage = () => {
       <br />Kotlin Playground: <a
             style={linkStyle}
             target="_blank"
-            href={"https://developer.android.google.cn/training/kotlinplayground"}
+            href={"https://play.kotlinlang.org/"}
           >
             Link
           </a>
