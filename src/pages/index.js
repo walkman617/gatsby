@@ -166,6 +166,26 @@ const IndexPage = () => {
               Introduction to programming in Kotlin  
             </a> 
           </li>
+
+          <li> [assignment]  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-intro-kotlin-practice-problems"}
+            >
+               Practice Problems: Kotlin Basics
+            </a>
+          </li> 
+
+          <li>[submit] 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYkRHc3R1Yk9aZExY"}
+            >
+               Project Report 
+            </a> 
+          </li>
     
       <br />
 
@@ -183,13 +203,33 @@ const IndexPage = () => {
             </a> 
           </li>
 
+          <li> [assignment]  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-emulator"}
+            >
+               Run your first app on the Android Emulator
+            </a>
+          </li> 
+
+          <li>[submit] 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYkFUUWZrQ0NQR1NI"}
+            >
+               Project Report 
+            </a> 
+          </li>
+
       <br />
 
 
       <br />
       Unit 1 - Pathway 3 
           <br />
-          <li>[online course3] 
+          <li>[online course] 
             <a
             style={linkStyle}
             target="_blank"
