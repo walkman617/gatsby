@@ -444,7 +444,7 @@ const IndexPage = () => {
       </ul>
 
       
-      <span>Copyright © 2024 College of Software, Nankai University. Built with <a target="_blank" href="https://www.gatsbyjs.com/">Gatsby</a>. </span>
+      <span>Copyright © 2025 College of Software, Nankai University. Built with <a target="_blank" href="https://www.gatsbyjs.com/">Gatsby</a>. </span>
       
     </main>
   )
