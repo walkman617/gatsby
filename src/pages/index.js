@@ -206,16 +206,18 @@ const IndexPage = () => {
             href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-composables-practice-problems"}
             >
                Project: Create a business card app
-            </a>,
+            </a>
+          </li> 
 
+          <li>[Submit] 
             <a
             style={linkStyle}
             target="_blank"
-            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-composables-practice-problems"}
+            href={"https://docs.qq.com/form/page/DYnhXSUhmRExNdXN5"}
             >
-               Submit: the screenshots of your project
-            </a>
-          </li> 
+               Project Report 
+            </a> 
+          </li>
   
       <br />
 
