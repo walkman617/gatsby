@@ -108,7 +108,7 @@ const IndexPage = () => {
       <h1 style={headingStyles}>
       Intelligent Mobile Development
         <br />
-        <span style={headingAccentStyles}> 2024 Autumn </span>
+        <span style={headingAccentStyles}> 2025 Autumn </span>
         <span role="img" aria-label="Party popper emojis">
         🚀 
         </span>
@@ -123,7 +123,7 @@ const IndexPage = () => {
       <br />Slides: <a
             style={linkStyle}
             target="_blank"
-            href={"https://docs.qq.com/s/OH8ECqFI_FSTgdTnGcqmYq"}
+            href={"https://docs.qq.com/s/oPg8u_sHiql6dpLcofID6G"}
           >
             Link
           </a>
@@ -155,9 +155,9 @@ const IndexPage = () => {
 
 
       <br />
-      Assignment 1 (From Sep 2,2024 to Sep 8, 2024) 
+      Assignment 1 (TBD) 
           <br />
-          <li>Unit 1 - Pathway 1: 
+          <li>[Unit 1 - Pathway 1] 
             <a
             style={linkStyle}
             target="_blank"
@@ -167,11 +167,11 @@ const IndexPage = () => {
             </a> 
           </li>
 
-          <li> Submit:  
+          <li> [Submit]  
             <a
             style={linkStyle}
             target="_blank"
-            href={"https://docs.qq.com/form/page/DYlRVZkNKbmlicnFa"}
+            href={"#"}
             >
                Screenshots of Codelabs
             </a>
@@ -180,9 +180,9 @@ const IndexPage = () => {
 
 
       <br />
-      Assignment 2 (From Sep 9,2024 to Sep 15, 2024) 
+      Assignment 2 (TBD) 
           <br />
-          <li>Unit 1 - Pathway 2: 
+          <li>[Unit 1 - Pathway 2] 
             <a
             style={linkStyle}
             target="_blank"
@@ -192,22 +192,13 @@ const IndexPage = () => {
             </a> 
           </li>
 
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYlBhdkZYUmlrekdj"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
       <br />
 
 
       <br />
-      Assignment 3 (From Sep 23,2024 to Sep 29, 2024) 
+      Assignment 3 (TBD) 
           <br />
-          <li>Unit 1 - Pathway 3: 
+          <li>[Unit 1 - Pathway 3] 
             <a
             style={linkStyle}
             target="_blank"
@@ -216,22 +207,13 @@ const IndexPage = () => {
               Build a basic layout  
             </a> 
           </li>
-
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYnZUZXVDakdwSHR3"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+  
       <br />
 
       <br />
-      Assignment 4 (From Sep 30,2024 to Oct 12, 2024) 
+      Assignment 4 (TBD) 
           <br />
-          <li>Unit 2 - Pathway 1: 
+          <li>[Unit 2 - Pathway 1] 
             <a
             style={linkStyle}
             target="_blank"
@@ -241,22 +223,13 @@ const IndexPage = () => {
             </a> 
           </li>
 
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYklaTXN4Snp2dnNF"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
       <br />
 
 
       <br />
-      Assignment 5 (From Oct 14, 2024 to Oct 20,2024) 
+      Assignment 5 (TBD) 
           <br />
-          <li>Unit 2 - Pathway 2: 
+          <li>[Unit 2 - Pathway 2] 
             <a
             style={linkStyle}
             target="_blank"
@@ -265,23 +238,14 @@ const IndexPage = () => {
               Add a button to an app  
             </a> 
           </li>
-
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYllKbW5PVEJtS1pr"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+     
       <br />
 
       
       <br />
-      Assignment 6 (From Oct 21, 2024 to Oct 27,2024) 
+      Assignment 6 (TBD) 
           <br />
-          <li>Unit 2 - Pathway 3: 
+          <li>[Unit 2 - Pathway 3] 
             <a
             style={linkStyle}
             target="_blank"
@@ -291,22 +255,14 @@ const IndexPage = () => {
             </a> 
           </li>
 
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYmhwb1FEcElZV1hU"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+              
       <br />
 
       
       <br />
-      Assignment 7 (From Oct 28, 2024 to Nov 3,2024) 
+      Assignment 7 (TBD) 
           <br />
-          <li>Unit 3 - Pathway 1: 
+          <li>[Unit 3 - Pathway 1] 
             <a
             style={linkStyle}
             target="_blank"
@@ -316,21 +272,13 @@ const IndexPage = () => {
             </a> 
           </li>
 
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYlBnWVp5TEp0TEFq"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+              
       <br />
 
       <br />
-      Assignment 8 (From Nov 4, 2024 to Nov 10,2024) 
+      Assignment 8 (TBD) 
           <br />
-          <li>Unit 3 - Pathway 2: 
+          <li>[Unit 3 - Pathway 2] 
             <a
             style={linkStyle}
             target="_blank"
@@ -340,22 +288,14 @@ const IndexPage = () => {
             </a> 
           </li>
 
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYnV0UEpRSk10UHBC"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+           
       <br />
 
 
       <br />
-      Assignment 9 (From Nov 11, 2024 to Nov 17,2024) 
+      Assignment 9 (TBD) 
           <br />
-          <li>Unit 3 - Pathway 3: 
+          <li>[Unit 3 - Pathway 3] 
             <a
             style={linkStyle}
             target="_blank"
@@ -364,23 +304,14 @@ const IndexPage = () => {
               Build beautiful apps  
             </a> 
           </li>
-
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYmZmU2liU3h4Tkp6"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+             
       <br />
 
       
       <br />
-      Assignment 10 (From Nov 18, 2024 to Nov 24,2024) 
+      Assignment 10 (TBD) 
           <br />
-          <li>Unit 4 - Pathway 1: 
+          <li>[Unit 4 - Pathway 1] 
             <a
             style={linkStyle}
             target="_blank"
@@ -390,21 +321,13 @@ const IndexPage = () => {
             </a> 
           </li>
 
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYm9lYmZtYVd2ZlNm"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+         
       <br />
 
       <br />
-      Assignment 11 (From Nov 25, 2024 to Dec 1,2024) 
+      Assignment 11 (TBD) 
           <br />
-          <li>Unit 4 - Pathway 2: 
+          <li>[Unit 4 - Pathway 2] 
             <a
             style={linkStyle}
             target="_blank"
@@ -414,21 +337,13 @@ const IndexPage = () => {
             </a> 
           </li>
 
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYlBYSFFTeVFzV05F"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+          
       <br />
 
       <br />
-      Assignment 12 (From Dec 2, 2024 to Dec 8,2024) 
+      Assignment 12 (TBD) 
           <br />
-          <li>Unit 4 - Pathway 3: 
+          <li>[Unit 4 - Pathway 3]
             <a
             style={linkStyle}
             target="_blank"
@@ -438,52 +353,10 @@ const IndexPage = () => {
             </a> 
           </li>
 
-          <li> Submit:  
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYmJ3Y2NBZXVyYVdC"}
-            >
-               Screenshots of Codelabs
-            </a>
-          </li>         
+           
       <br />
 
-      <br />
-      Final Report (Before 31 December 2024) 
-          <br />
-          <li>
-          1. Design and develop a mobile app to show your country's arts or culture.
-          </li>
-          <li>2. You needn't develop the app from ZERO. You can make it by extending one sample project from the 
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://github.com/android/compose-samples"}
-            >
-              Jetpack Compose Samples  
-            </a>.
-          </li>
-
-          <li> 3. Submit your final report with the filename "StudentID-Name.doc/pdf" (see: 
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/doc/DYlBMY1daSmthQk5n"}
-            >
-              Final Report  
-            </a>
-            
-            ) to 
-            <a
-            style={linkStyle}
-            target="_blank"
-            href={"https://docs.qq.com/form/page/DYldQQUNaalJJblB3"}
-            >
-               here
-            </a> before 31 December 2024.
-          </li>         
-      <br />
+      
 
 
       </p>
