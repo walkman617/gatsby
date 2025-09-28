@@ -155,7 +155,7 @@ const IndexPage = () => {
 
 
       <br />
-      Unit 1 - Pathway 1 
+      Unit 1 - Pathway 1 (Before Sept. 29th, 2025)
           <br />
           <li>[online course] 
             <a
@@ -191,7 +191,7 @@ const IndexPage = () => {
 
 
       <br />
-      Unit 1 - Pathway 2
+      Unit 1 - Pathway 2 (Before Oct. 12th, 2025)
           <br />
           <li>[online course] 
             <a
