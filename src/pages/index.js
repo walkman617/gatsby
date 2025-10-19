@@ -227,7 +227,7 @@ const IndexPage = () => {
 
 
       <br />
-      Unit 1 - Pathway 3 
+      Unit 1 - Pathway 3  (Before Oct. 20th, 2025)
           <br />
           <li>[online course] 
             <a
@@ -262,7 +262,7 @@ const IndexPage = () => {
       <br />
 
       <br />
-      Unit 2 - Pathway 1
+      Unit 2 - Pathway 1  (Before Oct. 27th, 2025)
           <br />
           <li>[online course] 
             <a
@@ -271,6 +271,27 @@ const IndexPage = () => {
             href={"https://developer.android.google.cn/courses/pathways/android-basics-compose-unit-2-pathway-1"}
             >
               Kotlin fundamentals  
+            </a> 
+          </li>
+
+          
+           <li> [assignment]  
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems"}
+            >
+               Project: Kotlin Fundamentals
+            </a>
+          </li> 
+
+          <li>[submit] 
+            <a
+            style={linkStyle}
+            target="_blank"
+            href={"https://docs.qq.com/form/page/DYk9YS3NlYkdlcVBT"}
+            >
+               Project Report 
             </a> 
           </li>
 
