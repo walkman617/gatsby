@@ -257,8 +257,7 @@ const IndexPage = () => {
             >
                Project Report 
             </a> 
-          </li>
-  
+          </li>  
       <br />
 
       <br />
@@ -273,7 +272,6 @@ const IndexPage = () => {
               Kotlin fundamentals  
             </a> 
           </li>
-
           
            <li> [assignment]  
             <a
@@ -294,7 +292,6 @@ const IndexPage = () => {
                Project Report 
             </a> 
           </li>
-
       <br />
 
 
