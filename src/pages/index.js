@@ -279,7 +279,7 @@ const IndexPage = () => {
             <a
             style={linkStyle}
             target="_blank"
-            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems?continue=https%3A%2F%2Fdeveloper.android.google.cn%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-kotlin-fundamentals-practice-problems"}
+            href={"https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems"}
             >
                Project: Kotlin Fundamentals
             </a>
