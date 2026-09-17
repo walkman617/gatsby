@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby - Tutorial
+  Cloud Computing
 </h1>
 
-## 🚀 Quick start
+## 🚀 Presentation
 
 1.  **Create a Gatsby site.**
 
